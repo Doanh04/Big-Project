@@ -12,9 +12,9 @@ namespace Big_ProJect
 {
     public class SanPham
     {
+        //PHƯƠNG THỨC XÓA SẢN PHẨM THEO MÃ SẢN PHẨM ĐƯỢC TRUYỀN Vào
         public static void Sanpham_Delete(string masp)
         {
-        //PHƯƠNG THỨC XÓA SẢN PHẨM THEO MÃ SẢN PHẨM ĐƯỢC TRUYỀN Vào
             OleDbCommand cmd = new OleDbCommand("sanpham_delete");
             cmd.CommandType= CommandType.StoredProcedure;//chỉ định thủ tục lữu trữ StoredProcedure không phải hàm bình thường
             cmd.Parameters.AddWithValue("@masp", masp); //truyền tham số vào thủ tục lữu trữ StoredProcedure qua Parameters
