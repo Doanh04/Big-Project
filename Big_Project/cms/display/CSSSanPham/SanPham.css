@@ -1,0 +1,55 @@
+﻿body {
+
+}
+
+/* Vùng chứa control */
+.section-qlsp, .section-add {
+    background-color: #ffe3ec; /* Light pink */
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 16px;
+    width: 250px;
+}
+
+    /* Tiêu đề */
+    .section-qlsp h3,
+    .section-add h3 {
+        font-size: 20px;
+        color: #d6336c; /* Hồng đậm hơn để tạo nhấn */
+        margin-bottom: 15px;
+    }
+
+/* Danh sách ul */
+.qlsp, .add {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+    /* Các link trong danh sách */
+    .qlsp li a,
+    .add li a {
+        display: block;
+        padding: 10px 15px;
+        margin-bottom: 10px;
+        background-color: #ffccd5;
+        color: white;
+        border-radius: 8px;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        font-weight: 500;
+    }
+
+        /* Hover + Focus */
+        .qlsp li a:hover,
+        .add li a:hover,
+        .qlsp li a:focus,
+        .add li a:focus {
+            background-color: #fa8ea0; /* Màu hồng sáng hơn khi hover/focus */
+            color: #fff;
+            transform: translateX(5px); /* Di chuyển nhẹ khi hover */
+            box-shadow: 0 4px 10px rgba(250, 140, 160, 0.3);
+        }
+.tenTruong {
+    font-size: 20px;
+}}

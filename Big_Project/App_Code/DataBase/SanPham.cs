@@ -29,7 +29,6 @@ namespace Big_ProJect
                                          string ngaytao,
                                          string ngayhuy,
                                          string maDM ,
-                                         string nhomID,
                                          string ret )
         {
             OleDbCommand cmd = new OleDbCommand("sanpham_inser");
@@ -42,8 +41,7 @@ namespace Big_ProJect
             cmd.Parameters.AddWithValue("@ngaytao", ngaytao);
             cmd.Parameters.AddWithValue("@ngayhuy", ngayhuy);
             cmd.Parameters.AddWithValue("@maDM", maDM);
-            cmd.Parameters.AddWithValue("@nhomID", nhomID);
-            cmd.Parameters.AddWithValue("@ret", ret);
+            cmd.Parameters.Add("@ret", OleDbType.Integer).Direction = ParameterDirection.Output;
             SQLDatabase.ExecuteNoneQuery(cmd);
         }
         //PHƯƠNG THỨC UPDATE DỮ LIỆU VÀO BẢNG SẢN PHẨM
@@ -55,7 +53,6 @@ namespace Big_ProJect
                                          string ngaytao,
                                          string ngayhuy,
                                          string maDM,
-                                         string nhomID,
                                          string ret)
         {
             OleDbCommand cmd = new OleDbCommand("sanpham_update");
@@ -68,13 +65,12 @@ namespace Big_ProJect
             cmd.Parameters.AddWithValue("@ngaytao", ngaytao);
             cmd.Parameters.AddWithValue("@ngayhuy", ngayhuy);
             cmd.Parameters.AddWithValue("@maDM", maDM);
-            cmd.Parameters.AddWithValue("@nhomID", nhomID);
             cmd.Parameters.AddWithValue("@ret", ret);
             SQLDatabase.ExecuteNoneQuery(cmd);
         }
 
         //PHƯƠNG THỨC XEM TOÀN BỘ DỮ LIỆU TRONG BẢNG
-        public DataTable Thongtin_sanpham()
+        public static DataTable Thongtin_sanpham()
         {
             OleDbCommand cmd = new OleDbCommand("thongtin_sanpham");
             cmd.CommandType = CommandType.StoredProcedure;

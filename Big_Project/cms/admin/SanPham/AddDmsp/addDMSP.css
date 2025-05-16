@@ -1,0 +1,89 @@
+﻿.form-add {
+    background-color: #ffe4ec; /* light pink */
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+    .form-add .thongtin {
+        margin-bottom: 20px;
+        align-items: center;
+    }
+
+.tenTruong {
+    font-weight: bold;
+    color: #d63384;
+    font-size: 16px;
+}
+
+.oNhap input[type="text"],
+.oNhap select,
+.oNhap textarea,
+.oNhap input[type="file"],
+.oNhap .form-control {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    background-color: #fff;
+    color: #333;
+}
+
+    .oNhap input:focus,
+    .oNhap select:focus,
+    .oNhap textarea:focus {
+        border-color: #f06292;
+        box-shadow: 0 0 5px rgba(240, 98, 146, 0.5);
+        outline: none;
+    }
+
+.adDM-title p {
+    font-size: 22px;
+    font-weight: bold;
+    color: #ad1457;
+    margin-bottom: 20px;
+}
+.butonADD {
+    text-align: center;
+    margin-top: 30px;
+}
+
+    .butonADD asp\:button,
+    .butonADD input[type="submit"],
+    .butonADD input[type="button"] {
+        padding: 10px 30px;
+        margin: 0 10px;
+        border: none;
+        border-radius: 12px;
+        font-size: 16px;
+        font-weight: bold;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+
+/* Nút Thêm mới */
+#tbnadd {
+    background-color: #ff80ab; /* light pink */
+    color: #fff;
+}
+
+    #tbnadd:hover {
+        background-color: #e75480;
+        transform: translateY(-3px);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    }
+
+/* Nút Hủy */
+#btnhuy {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+    #btnhuy:hover {
+        background-color: #5a6268;
+        transform: translateY(-3px);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    }

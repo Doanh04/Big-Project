@@ -1,0 +1,78 @@
+﻿*{
+    box-sizing:border-box;
+}
+body {
+    background: linear-gradient(-45deg, #ffccd5, #ffe3ec, #ffc1d3, #ffe6f0);
+    background-size: 400% 400%;
+    animation: gradientBG 10s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% {background-position: 0% 50%;}
+    50% {background-position: 100% 50%;}
+    100% {background-position: 0% 50%;}
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(#ee9ca7, #ffdde1);
+    height:60px;
+    border-radius:20px;
+    position:fixed;
+    width:90%;
+    top:25px;
+    left:50%;
+    transform:translate(-50%, 0);
+    z-index:1000;
+}
+.home {
+    display:flex;
+    font-size:15px;  
+}
+.menu{
+    height:100%;
+}
+.menu li{
+    height:100%;
+}
+.menu-list{
+    display:flex;
+    list-style-type:none;
+    height:100%;
+}
+.menu-list li{
+    position:relative;
+}
+
+.menu-list li:hover {
+        background-color: lightpink;
+
+}
+.menu-list a {
+    margin: 0px 10px;
+    text-decoration: none;
+    color: white;
+    position:relative;
+    top:25%;
+}
+.menu-list a:hover{
+        color:aliceblue
+    }
+
+.accout p {
+        margin-left: 10px;
+        margin-right: 20px;
+        color: white;
+    }
+
+.logo-img img {
+    width: 130px;
+    height: auto;
+}
+.backtop{
+    height:100px;
+    z-index:999;
+    background-color:white;
+}

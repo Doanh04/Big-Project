@@ -1,0 +1,36 @@
+﻿.lienhe-container {
+    background-color: #ffe3ec;
+    border-radius: 16px;
+}
+
+.contact-form {
+    background-color: #fff0f5;
+    border: 1px solid #ffccd5;
+}
+
+    .contact-form h3 {
+        color: #d6336c;
+        font-weight: 600;
+    }
+
+    .contact-form .form-control {
+        border-radius: 10px;
+        border: 1px solid #fa8ea0;
+        transition: all 0.3s ease;
+    }
+
+        .contact-form .form-control:focus {
+            border-color: #d6336c;
+            box-shadow: 0 0 5px rgba(250, 140, 160, 0.5);
+        }
+
+    .contact-form .btn-primary {
+        background-color: #fa8ea0;
+        border: none;
+        border-radius: 10px;
+        transition: all 0.3s ease;
+    }
+
+        .contact-form .btn-primary:hover {
+            background-color: #f87596;
+        }

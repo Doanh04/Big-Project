@@ -1,0 +1,50 @@
+﻿body {
+    background: linear-gradient(-45deg, #ffccd5, #ffe3ec, #ffc1d3, #ffe6f0);
+    background-size: 400% 400%;
+    animation: gradientBG 10s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.inner-item {
+    background-color: #ffccd5; /* light pink */
+    color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    .inner-item a {
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    .inner-item:hover {
+        transform: translateY(-20px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    }
+    .inner-item i {
+        font-size: 32px;
+        margin-bottom: 10px;
+        display: block;
+    }

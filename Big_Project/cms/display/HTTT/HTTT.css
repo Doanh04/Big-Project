@@ -1,0 +1,39 @@
+﻿.hotro .hotro-item {
+    background-color: #ffc1d3;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 16px;
+    text-align: center;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+    .hotro .hotro-item a {
+        color: white;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 16px;
+        display: block;
+        padding: 10px;
+    }
+
+    .hotro .hotro-item i {
+        font-size: 32px;
+        margin-bottom: 10px;
+        display: block;
+    }
+
+    /* Hover effects */
+    .hotro .hotro-item:hover {
+        transform: translateY(-20px);
+        box-shadow: 0 8px 20px rgba(255, 105, 135, 0.3);
+        background-color: #fa8ea0;
+    }
+
+/* Responsive fix: Cho nhỏ hơn xl */
+@media (max-width: 1200px) {
+    .hotro .hotro-ite

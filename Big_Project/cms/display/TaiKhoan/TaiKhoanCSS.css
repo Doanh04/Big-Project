@@ -1,0 +1,47 @@
+﻿.section-TaiKhoan {
+    background-color: #ffe3ec;
+    padding: 20px;
+    border-radius: 16px;
+    width: 270px;
+    margin: 20px 0;
+}
+
+    .section-TaiKhoan h3 {
+        font-size: 20px;
+        color: #d6336c;
+        margin-bottom: 15px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+.qltk {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .qltk li a {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        background-color: #ffccd5;
+        color: white;
+        padding: 12px 15px;
+        margin-bottom: 10px;
+        text-decoration: none;
+        border-radius: 10px;
+        transition: all 0.3s ease;
+        font-weight: 500;
+    }
+
+        .qltk li a i {
+            font-size: 18px;
+        }
+
+        .qltk li a:hover,
+        .qltk li a:focus {
+            background-color: #fa8ea0;
+            transform: translateX(8px);
+            box-shadow: 0 4px 12px rgba(250, 140, 160, 0.2);
+        }
