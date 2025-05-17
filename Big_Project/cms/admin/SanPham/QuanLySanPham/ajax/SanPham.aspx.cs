@@ -26,12 +26,12 @@ public partial class cms_admin_SanPham_QuanLySanPham_ajax_SanPham : System.Web.U
     }
     private void XoaDanhMuc()
     {
-        string MaDM = "";
-        if (Request.Params["MaDM"] != null)
-            MaDM = Request.Params["MaDM"];
+        string MaSP = "";
+        if (Request.Params["MaSP"] != null)
+            MaSP = Request.Params["MaSP"];
         //Thực hiện code xóa
 
-        Big_ProJect.DanhMuc.Danhmuc_delete(MaDM);
+        Big_ProJect.SanPham.Sanpham_Delete(MaSP);
         //Trả về thông  báo 1-Thực hiện thành công 2-Không thành công
         Response.Write("1");
     }
