@@ -45,18 +45,19 @@ namespace Big_ProJect
             SQLDatabase.ExecuteNoneQuery(cmd);
         }
         //PHƯƠNG THỨC UPDATE DỮ LIỆU VÀO BẢNG SẢN PHẨM
-        public static void Sanpham_update(string tensp,
+        public static void Sanpham_update(string masp,
+                                         string tensp,
                                          string anhsanpham,
                                          string soluongsp,
                                          string giasp,
                                          string motasp,
                                          string ngaytao,
                                          string ngayhuy,
-                                         string maDM,
-                                         string ret)
+                                         string maDM)
         {
             OleDbCommand cmd = new OleDbCommand("sanpham_update");
             cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@masp", masp);
             cmd.Parameters.AddWithValue("@tensp", tensp);
             cmd.Parameters.AddWithValue("@anhsanpham", anhsanpham);
             cmd.Parameters.AddWithValue("@soluongsp", soluongsp);
@@ -65,7 +66,6 @@ namespace Big_ProJect
             cmd.Parameters.AddWithValue("@ngaytao", ngaytao);
             cmd.Parameters.AddWithValue("@ngayhuy", ngayhuy);
             cmd.Parameters.AddWithValue("@maDM", maDM);
-            cmd.Parameters.AddWithValue("@ret", ret);
             SQLDatabase.ExecuteNoneQuery(cmd);
         }
 

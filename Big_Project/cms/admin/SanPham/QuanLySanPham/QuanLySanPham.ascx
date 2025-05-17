@@ -71,20 +71,20 @@
        </div>
 </div>
 <script type="text/javascript">
-    function XoaDanhMuc(MaDM) {
-        console.log("XoaDanhMuc được gọi với MaDM:", MaDM); 
+    function XoaSanPham(MaSP) {
+        console.log("XoaDanhMuc được gọi với MaDM:", MaSP); 
 
-        if (confirm("Bạn có muốn xóa danh mục này?")) {
-            $.post("cms/admin/SanPham/QuanLyDanhMucSanPham/ajax/DanhMuc.aspx",
+        if (confirm("Bạn có muốn xóa sản phẩm này?")) {
+            $.post("cms/admin/SanPham/QuanLySanPham/ajax/SanPham.aspx",
                 {
                     "ThaoTac": "XoaDanhMuc",
-                    "MaDM": MaDM
+                    "MaSP": MaSP
                 },
                 function (data, status) {
                     console.log("Kết quả ajax:", data, status); 
 
                     if (data == 1 || data.trim() == "1") {
-                        $("#maDong_" + MaDM).slideUp();
+                        $("#maDong_" + MaSP).slideUp();
                     } else {
                         alert("Xoá không thành công hoặc không nhận được phản hồi đúng.");
                     }

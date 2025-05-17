@@ -41,14 +41,14 @@ public partial class cms_admin_SanPham_QuanLySanPham_QuanLySanPham : System.Web.
                     <td><i class='fas fa-tag'></i> " + dt.Rows[i]["TenSP"] + @"</td>
                     <td><i class=''></i> <img class='img' src='/pic/SanPham/" + dt.Rows[i]["AnhSP"] + @"' /></td>
                     <td><i class='fas fa-boxes'></i> " + dt.Rows[i]["SoLuongSP"] + @"</td>
-                    <td><i class='fas fa-dollar-sign'></i> " + dt.Rows[i]["GiaSP"] + @"</td>
+                    <td><i class='fas fa-dollar-sign'></i> " + dt.Rows[i]["GiaSP"] + @" VNĐ</td>
                     <td><i class='fas fa-calendar-plus'></i> " + ngayTaoStr + @"</td>
                     <td><span class='badge badge-success'>Hiển thị</span></td>
-                    <td><i class='fas fa-tools'></i> 
-                           <a href = '/Admin.aspx?module=sp&md2=qldmsp&thaotac=chinhsuasp&id=" + dt.Rows[i]["MaSP"] + @"' class='text-warning mx-1' title='Sửa sản phẩm'>
+                    <td>
+                           <a href = '/Admin.aspx?module=sp&md2=qlsp&thaotac=chinhsuasp&id=" + dt.Rows[i]["MaSP"] + @"' class='text-warning mx-1' title='Sửa sản phẩm'>
                                                 <i class='fas fa-pen-to-square'></i>
                                  </a>
-                            <a href='javascript:void(0)' onclick='XoaDanhMuc(" + dt.Rows[i]["MaSP"] + @")' class='text-danger mx-1' title='Xóa sản phẩm'>
+                            <a href='javascript:void(0)' onclick='XoaSanPham(" + dt.Rows[i]["MaSP"] + @")' class='text-danger mx-1' title='Xóa sản phẩm'>
                                     <i class='fas fa-trash-alt'></i>
                                </a>
                     </td>
