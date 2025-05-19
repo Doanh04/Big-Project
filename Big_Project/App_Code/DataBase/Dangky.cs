@@ -18,18 +18,18 @@ public class Dangky
             SQLDatabase.ExecuteNoneQuery(cmd);
         }
         //PHƯƠNG THỨC THÊM MỚI DỮ LIỆU VÀO BẢNG ĐĂNG KÝ
-        public static void dangky_inser(
+        public static void Dangky_inser(
                                         string tendangnhap,
                                         string matkhau,
                                         string emaildk,
                                         string tendaydu,
-                                        string ngaysinh,
+                                        DateTime ngaysinh,
                                         string gioitinhdk,
                                         string maquyen,
                                         string ret
             )
         {
-            OleDbCommand cmd = new OleDbCommand();
+            OleDbCommand cmd = new OleDbCommand("dangky_inser");
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@tendangnhap", tendangnhap);
             cmd.Parameters.AddWithValue("@matkhau", matkhau);
@@ -47,11 +47,11 @@ public class Dangky
                                          string matkhau,
                                          string emaildk,
                                          string tendaydu,
-                                         string ngaysinh,
+                                         DateTime ngaysinh,
                                          string gioitinhdk,
                                          string maquyen)
         {
-            OleDbCommand cmd = new OleDbCommand();
+            OleDbCommand cmd = new OleDbCommand("dangky_update");
             cmd.CommandType= CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@tendangnhap", tendangnhap);
             cmd.Parameters.AddWithValue("@matkhau", matkhau);
@@ -63,7 +63,7 @@ public class Dangky
             SQLDatabase.ExecuteNoneQuery(cmd);
         }
         //PHƯƠNG THỨC XEM TOÀN BỘ DỮ LIỆU TRONG BẢNG ĐĂNG KÝ
-        public DataTable Thongtin_dangky()
+        public static DataTable Thongtin_dangky()
         {
             OleDbCommand cmd = new OleDbCommand("thongtin_dangky");
             cmd.CommandType= CommandType.StoredProcedure;

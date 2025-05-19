@@ -1,0 +1,42 @@
+﻿<style >
+.category-control {
+    font-size: 14px;
+}
+
+.category-control table img.img-sm {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.category-control .badge {
+    font-size: 12px;
+    padding: 4px 8px;
+}
+
+.category-control .table th i {
+    margin-right: 5px;
+    color: #6c757d;
+}
+
+.img {
+    width: 40px;
+    height: 40px;
+    transition: all 0.5s ease;
+}
+
+    .img:hover {
+        width: 300px;
+        height: 300px
+    }
+
+.category-control {
+    margin-bottom: 50px;
+}
+
+.ovfl {
+    height: 400px;
+    overflow: auto;
+    margin-top: 20px;
+}

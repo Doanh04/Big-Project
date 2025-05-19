@@ -43,6 +43,7 @@
 }
 </style>
 <div class="container-fluid">
+
     <div class="row">
         <!-- Menu tài khoản bên trái -->
         <div class="col-md-4 left">
@@ -50,7 +51,6 @@
                 <h3><i class="fas fa-users-cog"></i> Quản lý Tài Khoản</h3>
                 <ul class="qltk">
                     <li><a href="/Admin.aspx?module=tk&tk=dktk"><i class="fas fa-user-plus"></i> Đăng ký tài khoản admin</a></li>
-                    <li><a href="/Admin.aspx?module=tk&tk=qmk"><i class="fas fa-unlock-alt"></i> Quên mật khẩu</a></li>
                     <li><a href="/Admin.aspx?module=tk&tk=tttk"><i class="fas fa-id-badge"></i> Thông tin tài khoản</a></li>
                 </ul>
             </div>

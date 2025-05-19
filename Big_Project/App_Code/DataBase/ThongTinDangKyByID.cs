@@ -14,12 +14,12 @@ namespace Big_ProJect
     public class ThongTinDangKyByID
     {
         //LẤY THÔNG TIN ĐĂNG KÝ BẰNG TÊN ĐĂNG NHẬP
-        public static void Thongtin_dangky_by_id(string TenDangNhap)
+        public static DataTable Thongtin_dangky_by_id(string TenDangNhap)
         {
             OleDbCommand cmd = new OleDbCommand("thongtin_dangky_by_id");
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@TenDangNhap", TenDangNhap);
-            SQLDatabase.GetData(cmd);
+            return SQLDatabase.GetData(cmd);
         }
     }
 }

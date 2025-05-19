@@ -107,7 +107,6 @@
             <div class="section-qlsp">
                 <h3>Quản lý sản phẩm</h3>
                 <ul class="qlsp">
-                    <li><a href="/Admin.aspx?module=sp&md2=qlnsp">Nhóm sản phẩm</a></li>
                     <li><a href="/Admin.aspx?module=sp&md2=qlsp">Danh Sách sản phẩm</a></li>
                     <li><a href="/Admin.aspx?module=sp&md2=qldmsp">Danh mục sản phẩm</a></li>
                 </ul>
@@ -115,7 +114,6 @@
             <div class="section-add">
                 <h3>Thêm mới</h3>
                 <ul class="add">
-                    <li><a href="/Admin.aspx?module=sp&md2=addNsp">Nhóm sản phẩm</a></li>
                     <li><a href="/Admin.aspx?module=sp&md2=addSp">Danh sách sản phẩm</a></li>
                     <li><a href="/Admin.aspx?module=sp&md2=addDmsp">Danh mục sản phẩm</a></li>
                 </ul>

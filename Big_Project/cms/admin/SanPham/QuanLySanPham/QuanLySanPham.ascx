@@ -33,7 +33,7 @@
         margin-bottom:50px;
     }
     .ovfl{
-        height:600px;
+        height:400px;
         overflow:auto;
         margin-top:20px;
     }
