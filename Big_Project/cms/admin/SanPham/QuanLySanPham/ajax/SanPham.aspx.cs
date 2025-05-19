@@ -13,6 +13,18 @@ public partial class cms_admin_SanPham_QuanLySanPham_ajax_SanPham : System.Web.U
 
 
         //Cần kiểm tra đăng nhập ở đây sau đó mới thực hiện các thao tác ở dưới
+
+        //Cần kiểm tra đăng nhập ở đây sau đó mới thực hiện các thao tác ở dưới
+        //kiểm tra đã đăng nhập mới cho vào admin
+        if (Session["DangNhap"] != null && Session["DangNhap"].ToString() == "1")
+        {
+            //đã đăng nhập
+        }
+        else
+        {
+            return; //dừng khoonng cho thực hiện các câu lệnh ở dưới khi chưa đăng nhập
+        }
+        //////////////////////////////////////////////////////////////////////////////
         if (Request.Params["ThaoTac"] != null)
         {
             thaotac = Request.Params["ThaoTac"];

@@ -26,6 +26,9 @@ public partial class cms_admin_TaiKhoan_TaiKhoanLoadControl : System.Web.UI.User
             case "tttk":
                 pldtk.Controls.Add(LoadControl("Thongtintk/ThongTinTK.ascx"));
                 break;
+            default:
+                pldtk.Controls.Add(LoadControl("Thongtintk/ThongTinTK.ascx"));
+                break;
         }
         if (Request.QueryString["thaotactk"] != null)
         {

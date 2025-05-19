@@ -2,6 +2,26 @@
 
 <%@ Register Src="~/cms/admin/AdminLoad.ascx" TagPrefix="uc1" TagName="AdminLoad" %>
 
+<style>
+/*style cho nút button*/
+    .btn-logout {
+        border: none;
+        background-color: transparent;
+        color: white; 
+        border-bottom:1px solid white;
+        text-decoration: none;
+        cursor: pointer;
+        font-size: 16px;
+        padding: 5px 10px;
+        position:relative;
+        top:-5px;
+    }
+
+    .btn-logout:hover {
+        text-decoration: underline;
+        color: #0056b3;
+    }
+</style>
 
 <!DOCTYPE html>
 
@@ -38,8 +58,12 @@
                         <li><a href="/Admin.aspx?module=nd">Nội dung</a></li>
                     </ul>
                 </div>
-                <div class="accout">
-                    <p>Xin Chào: </p>
+                <div class="accout" style="display:flex; color:white;">
+                    Xin Chào: <asp:Literal ID="ltrTenDangNhap" runat="server"></asp:Literal>
+                    <div style="margin-left:10px;">
+                        |
+                    </div>
+                        <asp:Button ID="btndangxuat" runat="server" Text="Đăng xuất" OnClick="btndangxuat_Click" CssClass="btn-logout" />
                 </div>
             </div>
         </header>

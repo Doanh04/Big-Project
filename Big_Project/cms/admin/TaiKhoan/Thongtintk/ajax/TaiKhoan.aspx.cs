@@ -13,6 +13,16 @@ public partial class cms_admin_TaiKhoan_Thongtintk_ajax_TaiKhoan : System.Web.UI
 
 
         //Cần kiểm tra đăng nhập ở đây sau đó mới thực hiện các thao tác ở dưới
+        //kiểm tra đã đăng nhập mới cho vào admin
+        if (Session["DangNhap"] != null && Session["DangNhap"].ToString() == "1")
+        {
+            //đã đăng nhập
+        }
+        else
+        {
+            return; //dừng khoonng cho thực hiện các câu lệnh ở dưới khi chưa đăng nhập
+        }
+        //////////////////////////////////////////////////////////////////////////////
         if (Request.Params["thaotactk"] != null)
         {
             thaotactk = Request.Params["thaotactk"];

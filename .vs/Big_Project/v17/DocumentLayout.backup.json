@@ -3,8 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\adminload.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\adminload.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\cms\\admin\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\cms\\admin\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\cms\\admin\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\cms\\admin\\menu\\menuloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\menu\\menuloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\cms\\admin\\lienhe\\lienheloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\lienhe\\lienheloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\taikhoanloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\taikhoanloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\quanlysanpham\\quanlysanpham.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlysanpham\\quanlysanpham.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\adminload.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\adminload.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\cms\\admin\\sanpham\\quanlydanhmucsanpham\\ajax\\danhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlydanhmucsanpham\\ajax\\danhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\quanlydanhmucsanpham\\qldanhmucsanpham.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlydanhmucsanpham\\qldanhmucsanpham.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\quanlysanpham\\ajax\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlysanpham\\ajax\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\app_code\\database\\thongtindangkybyidmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\app_code\\database\\thongtindangkybyidmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\dangkytk\\dangkytk.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,7 +111,7 @@
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\dangkytk\\dangkytk.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|c:\\users\\dgrun\\onedrive\\m\u00E1y t\u00EDnh\\big project\\big_project\\big_project\\cms\\admin\\taikhoan\\thongtintk\\thongtintk.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\thongtintk\\thongtintk.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\thongtintk\\thongtintk.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
@@ -35,48 +131,12 @@
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlysanpham\\ajax\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\thongtintk\\ajax\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\quanlysanpham\\ajax\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlysanpham\\ajax\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\thongtintk\\thongtintk.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\thongtintk\\thongtintk.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\quanlysanpham\\quanlysanpham.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlysanpham\\quanlysanpham.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\app_code\\database\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\app_code\\database\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\taikhoanloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\taikhoanloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\addsp\\addsp.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\app_code\\database\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\app_code\\database\\thongtindangkybyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\adminload.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\adminload.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\taikhoan\\taikhoanloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\taikhoan\\taikhoanloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
@@ -99,24 +155,12 @@
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlydanhmucsanpham\\qldanhmucsanpham.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\quanlydanhmucsanpham\\qldanhmucsanpham.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\quanlydanhmucsanpham\\qldanhmucsanpham.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\trangchu\\trangchuloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\trangchu\\trangchuloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\trangchu\\trangchuloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\trangchu\\trangchuloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\adminload.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|solutionrelative:big_project\\cms\\admin\\adminload.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF5DCEC0-6061-454D-1AB6-EB97E6F495A3}|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project|C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\big_project\\cms\\admin\\sanpham\\adddmsp\\adddmsp.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,11 +178,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 318,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 38,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "AddSp.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\AddSp\\AddSp.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\AddSp\\AddSp.ascx",
@@ -147,11 +191,155 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
               "WhenOpened": "2025-05-19T01:50:23.84Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base.css",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\CSS\\base.css",
+              "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\CSS\\base.css",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\CSS\\base.css*",
+              "RelativeToolTip": "Big_Project\\cms\\admin\\CSS\\base.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:27:10.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\CSS\\admin.css",
+              "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\CSS\\admin.css",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\CSS\\admin.css",
+              "RelativeToolTip": "Big_Project\\cms\\admin\\CSS\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T19:18:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\Menu\\MenuLoadControl.ascx",
+              "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\Menu\\MenuLoadControl.ascx",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\Menu\\MenuLoadControl.ascx",
+              "RelativeToolTip": "Big_Project\\cms\\admin\\Menu\\MenuLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-05-19T19:14:56.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LienHeLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\LienHe\\LienHeLoadControl.ascx",
+              "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\LienHe\\LienHeLoadControl.ascx",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\LienHe\\LienHeLoadControl.ascx",
+              "RelativeToolTip": "Big_Project\\cms\\admin\\LienHe\\LienHeLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-05-19T19:14:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DanhMuc.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\ajax\\DanhMuc.aspx.cs",
+              "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\ajax\\DanhMuc.aspx.cs",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\ajax\\DanhMuc.aspx.cs",
+              "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\ajax\\DanhMuc.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:47:59.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\Web.config",
+              "RelativeDocumentMoniker": "Big_Project\\Web.config",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\Web.config",
+              "RelativeToolTip": "Big_Project\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T18:40:57.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Big_Project\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\Web.Debug.config",
+              "RelativeToolTip": "Big_Project\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T18:40:51.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThongTinDangKyByIDMK.cs",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\App_Code\\DataBase\\ThongTinDangKyByIDMK.cs",
+              "RelativeDocumentMoniker": "Big_Project\\App_Code\\DataBase\\ThongTinDangKyByIDMK.cs",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\App_Code\\DataBase\\ThongTinDangKyByIDMK.cs",
+              "RelativeToolTip": "Big_Project\\App_Code\\DataBase\\ThongTinDangKyByIDMK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:25:04.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\login.aspx.cs",
+              "RelativeDocumentMoniker": "Big_Project\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\login.aspx.cs",
+              "RelativeToolTip": "Big_Project\\login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:21:20.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\CSS\\login.css",
+              "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\CSS\\login.css",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\CSS\\login.css",
+              "RelativeToolTip": "Big_Project\\cms\\admin\\CSS\\login.css",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T18:19:20.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\login.aspx",
+              "RelativeDocumentMoniker": "Big_Project\\login.aspx",
+              "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\login.aspx",
+              "RelativeToolTip": "Big_Project\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-19T18:11:47.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "TaiKhoanCSS.css",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\display\\TaiKhoan\\TaiKhoanCSS.css",
               "RelativeDocumentMoniker": "Big_Project\\cms\\display\\TaiKhoan\\TaiKhoanCSS.css",
@@ -159,11 +347,12 @@
               "RelativeToolTip": "Big_Project\\cms\\display\\TaiKhoan\\TaiKhoanCSS.css",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T13:58:50.405Z"
+              "WhenOpened": "2025-05-19T13:58:50.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 29,
               "Title": "QuanLyTK.css",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\display\\TaiKhoan\\QuanLyTK.css",
               "RelativeDocumentMoniker": "Big_Project\\cms\\display\\TaiKhoan\\QuanLyTK.css",
@@ -171,23 +360,25 @@
               "RelativeToolTip": "Big_Project\\cms\\display\\TaiKhoan\\QuanLyTK.css",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T13:58:47.403Z"
+              "WhenOpened": "2025-05-19T13:58:47.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "TaiKhoan.aspx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ajax\\TaiKhoan.aspx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ajax\\TaiKhoan.aspx.cs",
               "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ajax\\TaiKhoan.aspx.cs",
               "RelativeToolTip": "Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ajax\\TaiKhoan.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:55:43.781Z"
+              "WhenOpened": "2025-05-19T13:55:43.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "TaiKhoan.aspx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ajax\\TaiKhoan.aspx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ajax\\TaiKhoan.aspx",
@@ -195,23 +386,25 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ajax\\TaiKhoan.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-19T13:55:29.522Z"
+              "WhenOpened": "2025-05-19T13:55:29.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Admin.aspx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\Admin.aspx.cs",
               "RelativeDocumentMoniker": "Big_Project\\Admin.aspx.cs",
               "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\Admin.aspx.cs",
               "RelativeToolTip": "Big_Project\\Admin.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:52:22.976Z"
+              "WhenOpened": "2025-05-19T13:52:22.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 30,
               "Title": "QuanLySanPham.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\QuanLySanPham.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\QuanLySanPham.ascx",
@@ -219,11 +412,12 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\QuanLySanPham.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-05-19T13:08:34.668Z"
+              "WhenOpened": "2025-05-19T13:08:34.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "QuanLySanPham.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\QuanLySanPham.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\QuanLySanPham.ascx.cs",
@@ -231,23 +425,25 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\QuanLySanPham.ascx.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:08:34.758Z"
+              "WhenOpened": "2025-05-19T13:08:34.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "SanPham.aspx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\ajax\\SanPham.aspx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\ajax\\SanPham.aspx.cs",
               "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\ajax\\SanPham.aspx.cs",
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\ajax\\SanPham.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T10:27:29.195Z"
+              "WhenOpened": "2025-05-19T10:27:29.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 26,
               "Title": "Dangkytk.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\DangkyTk\\Dangkytk.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\DangkyTk\\Dangkytk.ascx",
@@ -260,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "ThongTinDangKyByID.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\App_Code\\DataBase\\ThongTinDangKyByID.cs",
               "RelativeDocumentMoniker": "Big_Project\\App_Code\\DataBase\\ThongTinDangKyByID.cs",
@@ -268,11 +464,12 @@
               "RelativeToolTip": "Big_Project\\App_Code\\DataBase\\ThongTinDangKyByID.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T09:23:55.122Z"
+              "WhenOpened": "2025-05-19T09:23:55.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 1,
               "Title": "AdminLoad.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\AdminLoad.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\AdminLoad.ascx",
@@ -285,19 +482,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "AddSp.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\AddSp\\AddSp.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\AddSp\\AddSp.ascx.cs",
               "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\AddSp\\AddSp.ascx.cs",
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\AddSp\\AddSp.ascx.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAHoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T09:16:52.131Z"
+              "WhenOpened": "2025-05-19T09:16:52.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "TaiKhoanLoadControl.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\TaiKhoanLoadControl.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\TaiKhoanLoadControl.ascx",
@@ -305,11 +503,12 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\TaiKhoan\\TaiKhoanLoadControl.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-05-19T04:00:53.113Z"
+              "WhenOpened": "2025-05-19T04:00:53.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "TrangChuLoadControl.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TrangChu\\TrangChuLoadControl.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TrangChu\\TrangChuLoadControl.ascx.cs",
@@ -317,11 +516,12 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\TrangChu\\TrangChuLoadControl.ascx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T06:35:20.531Z"
+              "WhenOpened": "2025-05-19T06:35:20.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "TrangChuLoadControl.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TrangChu\\TrangChuLoadControl.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TrangChu\\TrangChuLoadControl.ascx",
@@ -329,23 +529,25 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\TrangChu\\TrangChuLoadControl.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-05-19T06:35:05.732Z"
+              "WhenOpened": "2025-05-19T06:35:05.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 11,
               "Title": "AdminLoad.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\AdminLoad.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\AdminLoad.ascx.cs",
               "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\AdminLoad.ascx.cs",
               "RelativeToolTip": "Big_Project\\cms\\admin\\AdminLoad.ascx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T06:34:28.639Z"
+              "WhenOpened": "2025-05-19T06:34:28.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "SanPhamLoadcontrol.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\SanPhamLoadcontrol.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\SanPhamLoadcontrol.ascx",
@@ -353,35 +555,38 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\SanPhamLoadcontrol.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-05-19T04:01:06.731Z"
+              "WhenOpened": "2025-05-19T04:01:06.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 8,
               "Title": "SanPhamLoadcontrol.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\SanPhamLoadcontrol.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\SanPhamLoadcontrol.ascx.cs",
               "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\SanPhamLoadcontrol.ascx.cs",
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\SanPhamLoadcontrol.ascx.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T04:01:06.805Z"
+              "WhenOpened": "2025-05-19T04:01:06.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 7,
               "Title": "TaiKhoanLoadControl.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\TaiKhoanLoadControl.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\TaiKhoanLoadControl.ascx.cs",
               "ToolTip": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\TaiKhoanLoadControl.ascx.cs",
               "RelativeToolTip": "Big_Project\\cms\\admin\\TaiKhoan\\TaiKhoanLoadControl.ascx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T04:00:58.58Z"
+              "WhenOpened": "2025-05-19T04:00:58.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 27,
               "Title": "ThongTinTK.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ThongTinTK.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ThongTinTK.ascx",
@@ -394,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "ThongTinTK.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ThongTinTK.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ThongTinTK.ascx.cs",
@@ -402,11 +607,12 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\TaiKhoan\\Thongtintk\\ThongTinTK.ascx.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T04:00:23.362Z"
+              "WhenOpened": "2025-05-19T04:00:23.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "SanPham.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\App_Code\\DataBase\\SanPham.cs",
               "RelativeDocumentMoniker": "Big_Project\\App_Code\\DataBase\\SanPham.cs",
@@ -414,11 +620,12 @@
               "RelativeToolTip": "Big_Project\\App_Code\\DataBase\\SanPham.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:42:23.024Z"
+              "WhenOpened": "2025-05-19T03:42:23.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "Dangky.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\App_Code\\DataBase\\Dangky.cs",
               "RelativeDocumentMoniker": "Big_Project\\App_Code\\DataBase\\Dangky.cs",
@@ -426,11 +633,12 @@
               "RelativeToolTip": "Big_Project\\App_Code\\DataBase\\Dangky.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:40:18.317Z"
+              "WhenOpened": "2025-05-19T03:40:18.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "QLDanhMucSanPham.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\QLDanhMucSanPham.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\QLDanhMucSanPham.ascx.cs",
@@ -438,11 +646,12 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\QLDanhMucSanPham.ascx.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:18:40.885Z"
+              "WhenOpened": "2025-05-19T03:18:40.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "Dangkytk.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\TaiKhoan\\DangkyTk\\Dangkytk.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\TaiKhoan\\DangkyTk\\Dangkytk.ascx.cs",
@@ -455,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "SanPham.aspx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\ajax\\SanPham.aspx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\ajax\\SanPham.aspx",
@@ -463,7 +672,8 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\QuanLySanPham\\ajax\\SanPham.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-19T01:33:19.688Z"
+              "WhenOpened": "2025-05-19T01:33:19.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -480,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 16,
               "Title": "QLDanhMucSanPham.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\QLDanhMucSanPham.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\QLDanhMucSanPham.ascx",
@@ -488,11 +698,12 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\QuanLyDanhMucSanPham\\QLDanhMucSanPham.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-05-18T01:19:54.095Z"
+              "WhenOpened": "2025-05-18T01:19:54.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "AddDmsp.ascx",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\AddDmsp\\AddDmsp.ascx",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\AddDmsp\\AddDmsp.ascx",
@@ -500,11 +711,12 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\AddDmsp\\AddDmsp.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2025-05-18T01:17:47.986Z"
+              "WhenOpened": "2025-05-18T01:17:47.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "AddDmsp.ascx.cs",
               "DocumentMoniker": "C:\\Users\\dgrun\\OneDrive\\M\u00E1y t\u00EDnh\\Big Project\\Big_Project\\Big_Project\\cms\\admin\\SanPham\\AddDmsp\\AddDmsp.ascx.cs",
               "RelativeDocumentMoniker": "Big_Project\\cms\\admin\\SanPham\\AddDmsp\\AddDmsp.ascx.cs",
@@ -512,7 +724,8 @@
               "RelativeToolTip": "Big_Project\\cms\\admin\\SanPham\\AddDmsp\\AddDmsp.ascx.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAAAAK0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T01:17:48.062Z"
+              "WhenOpened": "2025-05-18T01:17:48.062Z",
+              "EditorCaption": ""
             }
           ]
         }

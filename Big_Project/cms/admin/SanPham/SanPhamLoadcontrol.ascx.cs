@@ -35,6 +35,9 @@ public partial class cms_admin_SanPham_SanPhamLoadcontrol : System.Web.UI.UserCo
             case "addDmsp":
                 pldSp.Controls.Add(LoadControl("AddDmsp/AddDmsp.ascx"));
                 break;
+            default:
+                pldSp.Controls.Add(LoadControl("QuanLySanPham/QuanLySanPham.ascx"));
+                break;
         }
 
          if(Request.QueryString["thaotac"] != null)

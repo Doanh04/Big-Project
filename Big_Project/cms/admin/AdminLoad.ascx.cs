@@ -41,7 +41,9 @@ public partial class cms_admin_AdminLoad : System.Web.UI.UserControl
             case "lh":
                 plAdminloadcontrol.Controls.Add(LoadControl("LienHe/LienHeLoadControl.ascx"));
                 break;
-
+            default:
+                plAdminloadcontrol.Controls.Add(LoadControl("TrangChu/TrangChuLoadControl.ascx"));
+                break;
         }
     }
 }
