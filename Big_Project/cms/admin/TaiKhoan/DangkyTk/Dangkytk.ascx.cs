@@ -78,9 +78,41 @@ public partial class cms_admin_TaiKhoan_DangkyTk_Dangkytk : System.Web.UI.UserCo
                 ltrthongbao.Text = "<span style='color:red'>Ngày sinh phải nhập đúng định dạng (YYYY-MM-DD).</span>";
                 return;
             }
-            Big_ProJect.Dangky.Dangky_update(txtTentaikhoan.Text, txtPass.Text, txtemail.Text, txtName.Text, ngaySinhDateEdit, ddlGioitinh.Text, drDanhmucquyen.SelectedValue);
+
+            string matKhauMoi = txtPass.Text.Trim();
+            string matKhauUpdate = matKhauMoi;
+
+            // Nếu không nhập mật khẩu mới, thì giữ lại mật khẩu cũ từ DB
+            if (string.IsNullOrEmpty(matKhauMoi))
+            {
+                // Lấy lại mật khẩu cũ từ DB theo tên tài khoản
+                DataTable dt = Big_ProJect.ThongTinDangKyByID.Thongtin_dangky_by_id(txtTentaikhoan.Text); // Viết thêm hàm này nếu chưa có
+
+                if (dt.Rows.Count > 0)
+                {
+                    matKhauUpdate = dt.Rows[0]["MatKhau"].ToString();
+                }
+                else
+                {
+                    ltrthongbao.Text = "<span style='color:red'>Không tìm thấy tài khoản để cập nhật.</span>";
+                    return;
+                }
+            }
+
+            // Cập nhật tài khoản với mật khẩu đã xử lý
+            Big_ProJect.Dangky.Dangky_update(
+                txtTentaikhoan.Text,
+                matKhauUpdate,
+                txtemail.Text,
+                txtName.Text,
+                ngaySinhDateEdit,
+                ddlGioitinh.Text,
+                drDanhmucquyen.SelectedValue
+            );
+
             ltrthongbao.Text = "Đã cập nhật tài khoản: " + txtTentaikhoan.Text;
         }
+
         else
         {
             //PHẦN THÊM MỚI DANH MỚI

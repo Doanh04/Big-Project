@@ -1,6 +1,13 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="ThongTinTK.ascx.cs" Inherits="cms_admin_TaiKhoan_Thongtintk_ThongTinTK" %>
 <h2>Quản lý tài khoản</h2>
-
+<style>
+        .ovfl{
+        height:400px;
+        overflow:auto;
+        margin-top:20px;
+        margin-bottom:20px;
+    }
+</style>
 <link href="../../../display/TaiKhoan/QuanLyTK.css" rel="stylesheet" />
 <div class="category-control shadow-sm p-3 bg-white rounded">
     <div class="d-flex justify-content-between align-items-center mb-3">
@@ -33,3 +40,23 @@
     </table>
        </div>
 </div>
+<script type="text/javascript">
+    function XoaTaiKhoan(TenDangNhap) {
+        if (confirm("Bạn có muốn xóa tài khoản này?")) {
+            $.post("cms/admin/TaiKhoan/Thongtintk/ajax/TaiKhoan.aspx", 
+                {
+                    "thaotactk": "XoaTaiKhoan",
+                    "TenDangNhap": TenDangNhap
+                },
+                function (data, status) {
+                    if (data.trim() == "1") {
+                        $("#maDong_" + TenDangNhap).slideUp();
+                    } else {
+                        alert("Xoá không thành công hoặc không nhận được phản hồi đúng.");
+                    }
+                });
+        }
+    }
+
+
+</script>
