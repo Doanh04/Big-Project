@@ -62,11 +62,12 @@ namespace Big_ProJect
             SQLDatabase.ExecuteNoneQuery (cmd);
         }
         //PHƯƠNG THỨC LẤY TOÀN BỘ DỮ LIỆU TRONG BẢNG KHÁCH HÀNG
-        public DataTable Thongtin_khachhang()
+        public static DataTable Thongtin_khachhang()
         {
             OleDbCommand cmd = new OleDbCommand("thongtin_khachhang");
             cmd.CommandType = CommandType.StoredProcedure;
             return SQLDatabase.GetData(cmd);
         }
+
     }
 }
