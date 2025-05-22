@@ -36,7 +36,12 @@ public partial class cms_default_DefaultLoad : System.Web.UI.UserControl
             case "event":
                 pldWeb.Controls.Add(LoadControl("TinTuc/TinTuc.ascx"));
                 break;
-
+            case "chitietsp":
+                pldWeb.Controls.Add(LoadControl("chitietsp/chitietsp.ascx"));
+                break;
+            default:
+                pldWeb.Controls.Add(LoadControl("TrangChu/TrangChu.ascx"));
+                break;
         }
     }
 }

@@ -57,7 +57,7 @@ namespace Big_ProJect
             SQLDatabase.ExecuteNoneQuery(cmd);
         }
         //PHƯƠNG THỨC XEM TOÀN BỘ DỮ LIỆU TRONG BẢNG
-        public DataTable Thongtin_danhmuc()
+        public static DataTable Thongtin_danhmuc()
         {
             OleDbCommand cmd = new OleDbCommand("thongtin_danhmuc");
             cmd.CommandType = CommandType.StoredProcedure;
